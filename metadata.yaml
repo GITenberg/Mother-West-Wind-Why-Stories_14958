@@ -1,0 +1,52 @@
+_repo: Mother-West-Wind-Why-Stories_14958
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Cady, Harrison
+    aliases:
+    - Cady, Walter Harrison
+    - Cady, W. Harrison (Walter Harrison)
+    birthdate: 1877
+    deathdate: 1970
+    gutenberg_agent_id: '8456'
+    url: http://www.gutenberg.org/2009/agents/8456
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Burgess, Thornton W. (Thornton Waldo)
+    alias: Burgess, Thornton Waldo
+    birthdate: 1874
+    deathdate: 1965
+    gutenberg_agent_id: '717'
+    url: http://www.gutenberg.org/2009/agents/717
+    wikipedia: http://en.wikipedia.org/wiki/Thornton_Burgess
+description: Grandfather Frog tells stories about why Spotty the turtle carries his
+  house with him, why Paddy the Beaver has a broad tail, and many others.
+gutenberg_bookshelf:
+- Children's Book Series
+- Children's Literature
+gutenberg_issued: '2005-02-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14958'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s stories, American'
+- !lcc 'PZ'
+- !lcsh 'Animals -- Juvenile fiction'
+tableOfContents: Why Striped Chipmunk is proud of his stripes -- Why Peter Rabbit
+  cannot fold his hands -- Why Unc' Billy Possum plays dead -- Why Reddy Fox wears
+  red -- Why Jimmy Skunk never hurries -- Why Sammy Jay has a fine coat -- Why Jerry
+  Muskrat builds his house in the water -- Why Old Man Coyote has many voices -- Why
+  Miner the Mole lives under ground -- Why Mr. Snake cannot wink -- Why Bobby Coon
+  has rings on his tail -- Why there is a black head in the buzzard family -- Why
+  Buster Bear appears to have no tail -- Why Flitter the Bat flies at night -- Why
+  Spotty the Turtle carries his house with him -- Why Paddy the Beaver has a broad
+  tail.
+title: Mother West Wind 'Why' Stories
+url: http://www.gutenberg.org/ebooks/14958
